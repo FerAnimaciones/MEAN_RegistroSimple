@@ -1,0 +1,11 @@
+{
+  "name"         : "Registro simple en MEAN",
+  "version"      : "0.0.1",
+  "description"  : "Simple app con MEAN",
+  "main"         : "server.js",
+  "author"       : "Fernando Manuel Avila Cataño",
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+  }
+}
